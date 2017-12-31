@@ -6,4 +6,9 @@ class test
 	{
 		return 'this is test';
 	}
+	
+	public function one()
+	{
+		return 'this is one';
+	}
 }
